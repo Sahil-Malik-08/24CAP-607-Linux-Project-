@@ -59,6 +59,13 @@ http://<your-server-ip>
 ## Results
 The Apache web server successfully hosts the custom webpage, accessible via the IP address of the server.
 
+## Webpage Demo
+
+Below is a demo of the custom webpage running on the Apache server:
+
+![Webpage Running](./assets/webpage_demo.gif)
+
+
 ## Repository Contents
 - `index.html`: The custom webpage deployed on the web server.
 - `setup_guide.md`: Step-by-step guide to setting up the web server.
