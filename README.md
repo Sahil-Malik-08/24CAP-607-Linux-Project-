@@ -63,6 +63,7 @@ The Apache web server successfully hosts the custom webpage, accessible via the 
 - `index.html`: The custom webpage deployed on the web server.
 - `setup_guide.md`: Step-by-step guide to setting up the web server.
 - `screenshots/`: A folder containing images of the setup process.
+- `setup_webserver.sh`: A Script that automates the process of server creation.
 
 ## Conclusion
 This project successfully demonstrates how to set up a personal web server using Apache on Red Hat Linux. The server is configured to serve static content, and basic web server management is covered.
