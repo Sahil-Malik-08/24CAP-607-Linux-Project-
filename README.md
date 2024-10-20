@@ -63,7 +63,8 @@ The Apache web server successfully hosts the custom webpage, accessible via the 
 
 Below is a demo of the custom webpage running on the Apache server:
 
-![Webpage Running](./assets/webpage_demo.gif)
+![Webpage Running](./assets/assetswebpage_demo.gif)
+
 
 
 ## Repository Contents
