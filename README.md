@@ -7,7 +7,7 @@ This is the repo for the College Project of Linux
 ## Project Overview
 This project demonstrates the setup of a personal web server using Apache on Red Hat Enterprise Linux. It covers the installation, configuration, and deployment of a custom HTML webpage.
 
-## Installation and Setup Guide
+
 
 ### 1. Install Red Hat Linux on VMware
 - Download the Red Hat Enterprise Linux Developer Edition.
